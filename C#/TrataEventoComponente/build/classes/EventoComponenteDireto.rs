@@ -1,0 +1,2 @@
+eventos.EventoComponenteDireto
+eventos.EventoComponenteDireto$1
